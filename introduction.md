@@ -1,9 +1,5 @@
----
-description: 'Tingchain: Pioneering Layer-2 Solution for TON Network'
----
-
 # Introduction
 
-Tingchain is a groundbreaking Layer-2 solution built on Optimism’s OP Stack SDK, and is the first project to deploy Optimism on a non-Ethereum platform. With the goal of revolutionizing the TON network, Tingchain brings superior scalability, enhanced liquidity, and EVM compatibility, expanding the reach of the Optimism ecosystem into new, untapped territories.
+Tingchain marks a transformative step forward for the TON ecosystem. Using Polygon’s CDK and AggLayer, it overcomes liquidity fragmentation and scalability challenges, bringing EVM compatibility into the TON network. This allows developers to build and deploy dApps and DeFi services with the security and flexibility of TON’s infrastructure. By addressing key pain points, Tingchain creates a fast, secure, and interoperable environment for DeFi, gaming, and decentralized identity, paving the way for wide-scale adoption and innovation within the TON community.
 
-Tingchain not only marks an important step forward in the development of blockchain technology but also affirms the pioneering position of the TON network in applying new technological solutions. Currently, Tingchain is in the testing phase (testnet), promising to bring new potentials and opportunities for both developers and users in the TON ecosystem.
+\
