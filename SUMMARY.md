@@ -55,4 +55,5 @@
     * [Query JSON RPC endpoints](sdk-polygon/working-with-node/query-json-rpc-endpoints.md)
     * [Query operator information](sdk-polygon/working-with-node/query-operator-information.md)
   * [Development Roadmap](sdk-polygon/development-roadmap.md)
+* [Social Channel](social-channel.md)
 * [Conclusion](conclusion.md)
