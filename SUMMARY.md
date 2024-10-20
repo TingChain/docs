@@ -12,6 +12,7 @@
   * [Tokenomics](sdk-polygon/tokenomics/README.md)
     * [Glossary](sdk-polygon/tokenomics/glossary.md)
     * [Tokenomics](sdk-polygon/tokenomics/tokenomics.md)
+  * [Testnet](sdk-polygon/testnet.md)
   * [Get started](sdk-polygon/get-started/README.md)
     * [Installation](sdk-polygon/get-started/installation.md)
     * [Local Setup](sdk-polygon/get-started/local-setup.md)
