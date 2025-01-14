@@ -1,6 +1,6 @@
 # Testnet
 
-TPS: up to 100.000 tps - https://docs.tingchain.org/sdk-polygon/additional-features/network-stress-testing \
+TPS: up to 100.000 tps - [Network stress testing](additional-features/network-stress-testing.md)\
 Block time: 3 second
 
 Network name: The Ting Blockchain \
