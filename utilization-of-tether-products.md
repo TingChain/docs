@@ -9,5 +9,3 @@ Tingchain maximizes the synergy between Polygon’s technologies and TON product
 * TON Payments: Enhances cross-border payment systems, offering fast and cost-effective transaction processing.
 
 Through this combination, Tingchain addresses key challenges, promoting robust growth in DeFi, dApps, and e-commerce, while expanding TON's global reach.
-
-\
