@@ -1,4 +1,4 @@
-# Post-Testnet Closure & Strategic Roadmap
+# 🗺️ Post-Testnet Closure & Strategic Roadmap
 
 After successfully closing its testnet phase, Tingchain is positioned for the next major milestones:
 

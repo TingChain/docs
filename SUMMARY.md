@@ -56,6 +56,6 @@
       * [Query operator information](ting-chain-ecosystem/developers/working-with-node/query-operator-information.md)
     * [Development Roadmap](ting-chain-ecosystem/developers/development-roadmap.md)
 * [Target Audience](target-audience.md)
-* [Post-Testnet Closure & Strategic Roadmap](strategic-roadmap.md)
+* [🗺️ Post-Testnet Closure & Strategic Roadmap](strategic-roadmap.md)
 * [Social Channel](social-channel.md)
 * [Conclusion](conclusion.md)

@@ -1,3 +1,7 @@
+---
+icon: clipboard-question
+---
+
 # Overview of Tingchain
 
 The TON Application Chain (TAC) is an innovative Layer-2 blockchain designed to enhance the functionality, interoperability, and scalability of the TON (The Open Network) ecosystem by enabling seamless integration with Ethereum Virtual Machine (EVM)-compatible protocols. This development significantly expands the scope of the TON ecosystem, allowing it to support a wide range of decentralized applications (DApps) operating within the Ethereum ecosystem and beyond.
@@ -13,8 +17,3 @@ Tingchain is a Layer-2 blockchain solution built on the TON ecosystem, leveragin
 * Sovereignty: Developers maintain full control over revenue, governance, and security policies on their chains.
 
 This structure sets the foundation for future advancements in DeFi, gaming, and decentralized identity within the TON ecosystem.
-
-\
-
-
-\

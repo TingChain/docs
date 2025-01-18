@@ -1,3 +1,7 @@
+---
+icon: share-nodes
+---
+
 # Social Channel
 
 | Telegram       | [https://t.me/TingChain](https://t.me/TingChain)                                       |
