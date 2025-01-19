@@ -14,8 +14,3 @@ Tingchain’s target audience includes:
 * Educational Institutions & Researchers: Institutions can explore Layer-2 scalability, zero-knowledge proofs, and cross-chain interoperability on Tingchain.
 
 By addressing the needs of these groups, Tingchain fosters adoption, innovation, and growth across multiple industries and sectors.
-
-\
-
-
-\

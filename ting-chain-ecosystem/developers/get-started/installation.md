@@ -27,7 +27,7 @@ sudo mv polygon-edge /usr/local/bin
 
 ***
 
-## Using `go install` <a href="#using-go-install" id="using-go-install"></a>
+## Using go install <a href="#using-go-install" id="using-go-install"></a>
 
 Prior to using `go install` make sure that you have Go `>=1.17` installed and properly configured.
 
@@ -37,4 +37,4 @@ The binary will be available in your `GOBIN` environment variable, and will incl
 
 ## Genesis files <a href="#genesis-files" id="genesis-files"></a>
 
-Test-net and Main-net file in: [Github ](https://github.com/TingChain/TingChain-Blockchain)[TingChain](https://github.com/TingChain/TingChain-Blockchain)
+Test-net and Main-net file in: [Github ](https://github.com/TingChain/TingChain-Blockchain)
