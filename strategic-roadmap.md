@@ -2,11 +2,23 @@
 
 After successfully closing its testnet phase, Tingchain is positioned for the next major milestones:
 
-* Mainnet Launch (Q1 2025): Official deployment on TON, integrating Polygon’s CDK and AggLayer for full scalability and EVM compatibility.
-* Developer Support (Q2 2025): Introduction of SDKs and toolkits to encourage migration and development of Ethereum-based dApps.
-* DeFi & Cross-Chain Liquidity (Q3 2025): Expand staking, lending, and liquidity pools with cross-chain solutions.
-* Community Growth & Partnerships (Q4 2025): Focus on collaborations with key projects in DeFi and gaming to boost engagement.
-* Ecosystem Expansion (Late 2025): Further integration of decentralized identity and gaming projects, with a focus on Telegram-related platforms.
+## &#x20;Q2 2025
+
+* Mainnet Launch: Official deployment on TON, integrating Polygon’s CDK and AggLayer for full scalability and EVM compatibility.
+* Officially launching the first DEX platform on the Ting Chain mainnet.
+
+## Q3 2025
+
+* Developer Support: Introduction of SDKs and toolkits to encourage migration and development of Ethereum-based dApps.
+
+## Q4 2025
+
+* Cross-Chain Liquidity: Expand staking, lending, and liquidity pools with cross-chain solutions.
+
+## Q1 2026
+
+* Community Growth & Partnerships: Focus on collaborations with key projects in DeFi and gaming to boost engagement.
+* Ecosystem Expansion: Further integration of decentralized identity and gaming projects, with a focus on Telegram-related platforms.
 
 Ongoing scalability enhancements will ensure Tingchain remains a leader in the blockchain space, reducing transaction costs and improving network performance.
 
