@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Overview of Tingchain](README.md)
+* [Backer & Investor](backer-and-investor.md)
 * [Executive Summary](executive-summary.md)
 * [Introduction](introduction.md)
 * [Ting Chain Ecosystem](ting-chain-ecosystem/README.md)
