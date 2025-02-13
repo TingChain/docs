@@ -2,6 +2,10 @@
 
 After successfully closing its testnet phase, Tingchain is positioned for the next major milestones:
 
+## Q4 2024 - Q1 2025
+
+* Launch **Testnet** to evaluate performance, security, and EVM compatibility.
+
 ## &#x20;Q2 2025
 
 * Mainnet Launch: Official deployment on TON, integrating Polygon’s CDK and AggLayer for full scalability and EVM compatibility.
