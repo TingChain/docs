@@ -3,8 +3,16 @@
 TPS: up to 100.000 tps - [Network stress testing](additional-features/network-stress-testing.md)\
 Block time: 3 second
 
-Network name: The Ting Blockchain \
-Network URL: [https://testnet.tingchain.org](https://testnet.tingscan.com/)\
-Chain ID: 6666689 \
-Currency symbol: Ton \
-Explorer: https://tingscan.com
+Rpc: https://testnet.tingchain.org/&#x20;
+
+Chain ID: 6666689&#x20;
+
+Explorer: https://tingscan.com/
+
+COIN NAME : Ton
+
+NETWORK NAME: The Ting Blockchain Testnet Explorer&#x20;
+
+SYMBOL : Ton
+
+TOTAL SUPPLY: 1.000.000.000
