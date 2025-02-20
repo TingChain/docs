@@ -1,4 +1,6 @@
-# TingChain Ambassador Program
+# Ambassador Program
+
+<figure><img src="../.gitbook/assets/TingChain-06.png" alt=""><figcaption></figcaption></figure>
 
 **TingChain Ambassador Program !**
 

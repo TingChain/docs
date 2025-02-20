@@ -59,6 +59,6 @@
 * [Target Audience](target-audience.md)
 * [🗺️ Post-Testnet Closure & Strategic Roadmap](strategic-roadmap.md)
 * [News](news/README.md)
-  * [TingChain Ambassador Program](news/tingchain-ambassador-program.md)
+  * [Ambassador Program](news/tingchain-ambassador-program.md)
 * [Social Channel](social-channel.md)
 * [Conclusion](conclusion.md)
