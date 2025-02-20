@@ -1,6 +1,10 @@
+---
+icon: reflect-both
+---
+
 # Ambassador Program
 
-<figure><img src="../.gitbook/assets/TingChain-06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/TingChain-06.png" alt=""><figcaption></figcaption></figure>
 
 **TingChain Ambassador Program !**
 
@@ -21,7 +25,7 @@ Who Can Join? We are looking for passionate individuals who love blockchain tech
 💡 Provide Feedback: Help improve the TingChain ecosystem with valuable insights.
 
 **How to Join** \
-1️⃣ Apply through the : https://forms.gle/mBViZTcpBtYwR6mL9 \
+1️⃣ Apply through the : [https://forms.gle/mBViZTcpBtYwR6mL9](https://forms.gle/mBViZTcpBtYwR6mL9) \
 2️⃣ Wait for approval from the TingChain team. \
 3️⃣ Start your journey as a TingChain Ambassador and contribute to the community!
 

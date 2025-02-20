@@ -1,6 +1,0 @@
----
-icon: newspaper
----
-
-# News
-
