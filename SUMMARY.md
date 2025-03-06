@@ -59,5 +59,6 @@
 * [Target Audience](target-audience.md)
 * [🗺️ Roadmap](roadmap.md)
 * [Ambassador Program](ambassador-program.md)
+* [List Project Testnet](list-project-testnet.md)
 * [Social Channel](social-channel.md)
 * [Conclusion](conclusion.md)
