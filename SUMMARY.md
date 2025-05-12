@@ -4,6 +4,7 @@
 * [Backer & Investor](backer-and-investor.md)
 * [Executive Summary](executive-summary.md)
 * [Introduction](introduction.md)
+* [Tokenomics](tokenomics.md)
 * [Ting Chain Ecosystem](ting-chain-ecosystem/README.md)
   * [Technical Foundation](ting-chain-ecosystem/technical-foundation.md)
   * [Product Offerings](ting-chain-ecosystem/product-offerings.md)
