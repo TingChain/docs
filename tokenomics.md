@@ -1,3 +1,7 @@
+---
+icon: coins
+---
+
 # Tokenomics
 
 ### _**\*Basic Information**_
