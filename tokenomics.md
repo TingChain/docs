@@ -4,7 +4,7 @@
 
 | Fullname     | Ting          |
 | ------------ | ------------- |
-| TickerT      |               |
+| Ticker       | T             |
 | Total Supply | 1,000,000,000 |
 
 ### _**\*Allocation**_
