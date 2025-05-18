@@ -8,7 +8,7 @@ icon: coins
 
 | Fullname     | Ting          |
 | ------------ | ------------- |
-| Ticker       | T             |
+| Ticker       | Ting          |
 | Total Supply | 1,000,000,000 |
 
 ### _**\*Allocation**_
