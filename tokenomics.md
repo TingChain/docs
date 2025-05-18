@@ -6,9 +6,9 @@ icon: coins
 
 ### _**\*Basic Information**_
 
-| Fullname     | Ting Chain    |
+| Fullname     | Ting          |
 | ------------ | ------------- |
-| Ticker       | Ting          |
+| Ticker       | T             |
 | Total Supply | 1,000,000,000 |
 
 ### _**\*Allocation**_
