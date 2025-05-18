@@ -11,6 +11,11 @@ icon: coins
 | Ticker       | Ting          |
 | Total Supply | 1,000,000,000 |
 
+| CHAIN | TOKEN CONTRACT                                                                                                     |
+| ----- | ------------------------------------------------------------------------------------------------------------------ |
+| BSC   | [0xc82702fa21777dc8f72f8060d4a5c8a05655fe85](https://bscscan.com/token/0xc82702fa21777dc8f72f8060d4a5c8a05655fe85) |
+|       |                                                                                                                    |
+
 ### _**\*Allocation**_
 
 | Distribution | Percentage | Allocation  |
