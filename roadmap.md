@@ -4,7 +4,7 @@ description: Post-Testnet Closure & Strategic Roadmap
 
 # 🗺️ Roadmap
 
-After successfully closing its testnet phase, Tingchain is positioned for the next major milestones:
+After successfully closing its testnet phase, Ting Application Chain is positioned for the next major milestones:
 
 ## Q4 2024 - Q1 2025
 
@@ -13,7 +13,7 @@ After successfully closing its testnet phase, Tingchain is positioned for the ne
 ## &#x20;Q2 2025
 
 * Mainnet Launch: Official deployment on TON, integrating Polygon’s CDK and AggLayer for full scalability and EVM compatibility.
-* Officially launching the first DEX platform on the Ting Chain mainnet.
+* Officially launching the first DEX platform on the Ting Application Chain mainnet.
 
 ## Q3 2025
 
@@ -28,7 +28,7 @@ After successfully closing its testnet phase, Tingchain is positioned for the ne
 * Community Growth & Partnerships: Focus on collaborations with key projects in DeFi and gaming to boost engagement.
 * Ecosystem Expansion: Further integration of decentralized identity and gaming projects, with a focus on Telegram-related platforms.
 
-Ongoing scalability enhancements will ensure Tingchain remains a leader in the blockchain space, reducing transaction costs and improving network performance.
+Ongoing scalability enhancements will ensure Ting Application Chain remains a leader in the blockchain space, reducing transaction costs and improving network performance.
 
 \
 \
