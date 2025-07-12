@@ -4,31 +4,62 @@ description: Post-Testnet Closure & Strategic Roadmap
 
 # 🗺️ Roadmap
 
-After successfully closing its testnet phase, Ting Application Chain is positioned for the next major milestones:
+## Phase 1: Foundation Setting (2019 – 2021)
 
-## Q4 2024 - Q1 2025
+**2019**: Conducted product research and defined the core technology direction.\
+**2020**: Formed the core development team.\
+**May 2021**: Launched Hora OS – the original open-source platform, serving as the foundation for the future TingChain Application.\
+**June 2021**: Partnered with DTS to launch DxSpace – a community development platform for Web3.
 
-* Launch **Testnet** to evaluate performance, security, and EVM compatibility.
+## Phase 2: Ecosystem Formation (2023 – 2025)
 
-## &#x20;Q2 2025
+**2023**: Introduced Ting Ecosystem – an integrated Web3 ecosystem combining multiple platforms and services.\
+**Q4/2024**: Launched the Testnet\
+Focused on performance evaluation, security, and EVM compatibility.\
+**Q1/2025**: Listed Toncapy – the pioneering community-driven project within TingEco, reaching 5.5 million holders and successfully raising $7 million in funding.
 
-* Mainnet Launch: Official deployment on TON, integrating Polygon’s CDK and AggLayer for full scalability and EVM compatibility.
-* Officially launching the first DEX platform on the Ting Application Chain mainnet.
+## Phase 3: Infrastructure Expansion (2025 – 2026)
 
-## Q3 2025
+**Q2/2025**: Launch of TingChain Mainnet
 
-* Developer Support: Introduction of SDKs and toolkits to encourage migration and development of Ethereum-based dApps.
+* Official deployment on TON
+* Integrated with CDK and Polygon’s AggLayer for full scalability and EVM compatibility.
+* Launched the first DEX on Ting Application Chain's mainnet.
 
-## Q4 2025
+**Q3/2025**: Released SDK & Developer Tools
 
-* Cross-Chain Liquidity: Expand staking, lending, and liquidity pools with cross-chain solutions.
+* Encouraged the development and scaling of Ethereum-based dApps.
 
-## Q1 2026
+**Q4/2025**: Cross-chain Liquidity
 
-* Community Growth & Partnerships: Focus on collaborations with key projects in DeFi and gaming to boost engagement.
-* Ecosystem Expansion: Further integration of decentralized identity and gaming projects, with a focus on Telegram-related platforms.
+* Introduced staking, lending, and liquidity pool creation across multiple blockchains.
 
-Ongoing scalability enhancements will ensure Ting Application Chain remains a leader in the blockchain space, reducing transaction costs and improving network performance.
+**Q1–Q2/2026**: Community Development & Strategic Partnerships
+
+* Focused on collaborations with leading DeFi and GameFi projects to drive user engagement.
+
+**Q3–Q4/2026**: Ecosystem Expansion
+
+* Deeper integration of gaming and decentralized identity projects, especially platforms linked with Telegram.
+
+## Phase 4: Growth & Global Expansion (2026 – 2030)
+
+**2026–2028:**\
+– Position TingChain as a dedicated digital infrastructure for Web3.\
+– Deploy Web3-specialized infrastructure in key sectors:\
+• Digital Education (on-chain EdTech, NFT certificates)\
+• Digital Finance (asset tokenization, CBDC integration)\
+• Decentralized Identity (DID) (eKYC, identity layer)\
+• Digital Assets (real-world asset tokenization – RWA)\
+– Ensure compatibility and integration with national digital infrastructures such as NDAChain.
+
+**2028–2030:**\
+– Continue product innovation and ecosystem expansion.\
+– Support startups, educational institutions, and communities.\
+– Establish TingChain Application as a leading digital infrastructure platform in the Asia-Pacific region and expand globally through:\
+• International partnership networks\
+• Sustainable revenue from digital products, network fees, B2B & B2G services\
+• Positioning as a “Blockchain for Society” – transparent, secure, and community-driven.
 
 \
 \

@@ -4,7 +4,7 @@ icon: clipboard-question
 
 # Overview of Ting Application Chain
 
-The TON Application Chain (TAC) is an innovative Application Chain blockchain designed to enhance the functionality, interoperability, and scalability of the TON (The Open Network) ecosystem by enabling seamless integration with Ethereum Virtual Machine (EVM)-compatible protocols. This development significantly expands the scope of the TON ecosystem, allowing it to support a wide range of decentralized applications (DApps) operating within the Ethereum ecosystem and beyond.
+The Ting Application Chain (TAC) is an innovative Application Chain blockchain designed to enhance the functionality, interoperability, and scalability of the TON (The Open Network) ecosystem by enabling seamless integration with Ethereum Virtual Machine (EVM)-compatible protocols. This development significantly expands the scope of the TON ecosystem, allowing it to support a wide range of decentralized applications (DApps) operating within the Ethereum ecosystem and beyond.
 
 Ting Application Chain is a Application Chain blockchain solution built on the TON ecosystem, leveraging Polygon's Chain Development Kit (CDK) and AggLayer technology to enhance scalability, security, and interoperability. This integration allows Ethereum Virtual Machine (EVM) compatibility, bringing decentralized applications (dApps) and DeFi services to the TON blockchain, while providing fast, low-cost transactions to users, particularly within the Telegram community. Ting Application Chain aims to solve liquidity fragmentation and offers developers a flexible platform for building innovative blockchain solutions.
 
