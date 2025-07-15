@@ -7,7 +7,7 @@
 * [Ting Application Chain Ecosystem](ting-application-chain-ecosystem/README.md)
   * [Technical Foundation](ting-application-chain-ecosystem/technical-foundation.md)
   * [Product Offerings](ting-application-chain-ecosystem/product-offerings.md)
-  * [Utilization of Polygon Technology with TON Products](ting-application-chain-ecosystem/utilization-of-polygon-technology-with-ton-products.md)
+  * [Utilization of Polygon Technology](ting-application-chain-ecosystem/utilization-of-polygon-technology.md)
   * [Developers](ting-application-chain-ecosystem/developers/README.md)
     * [Tokenomics](ting-application-chain-ecosystem/developers/tokenomics/README.md)
       * [Glossary](ting-application-chain-ecosystem/developers/tokenomics/glossary.md)

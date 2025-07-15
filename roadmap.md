@@ -22,7 +22,7 @@ Focused on performance evaluation, security, and EVM compatibility.\
 
 **Q2/2025**: Launch of TingChain Mainnet
 
-* Official deployment on TON
+* Official deployment.
 * Integrated with CDK and Polygon’s AggLayer for full scalability and EVM compatibility.
 * Launched the first DEX on Ting Application Chain's mainnet.
 
