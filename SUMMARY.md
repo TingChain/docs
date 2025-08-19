@@ -59,6 +59,7 @@
     * [Development Roadmap](ting-application-chain-ecosystem/developers/development-roadmap.md)
 * [Target Audience](target-audience.md)
 * [🗺️ Roadmap](roadmap.md)
+* [Team](team.md)
 * [Ambassador Program](ambassador-program.md)
 * [List Project Testnet](list-project-testnet.md)
 * [Social Channel](social-channel.md)
