@@ -12,6 +12,7 @@
     * [Tokenomics](ting-application-chain-ecosystem/developers/tokenomics/README.md)
       * [Glossary](ting-application-chain-ecosystem/developers/tokenomics/glossary.md)
       * [Tokenomics](ting-application-chain-ecosystem/developers/tokenomics/tokenomics.md)
+      * [Wallet verified](ting-application-chain-ecosystem/developers/tokenomics/wallet-verified.md)
     * [Testnet](ting-application-chain-ecosystem/developers/testnet.md)
     * [Get started](ting-application-chain-ecosystem/developers/get-started/README.md)
       * [Installation](ting-application-chain-ecosystem/developers/get-started/installation.md)
